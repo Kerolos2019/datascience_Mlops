@@ -1,6 +1,6 @@
-from src.datascience.config.configuration import ConfigurationManager
-from src.datascience.components.data_transformation import DataTransformation
-from src.datascience import logger
+from src.data_science_project.config.configuration import ConfigurationManager
+from src.data_science_project.components.data_transformation import DataTransformation
+from src.data_science_project import logger
 
 from pathlib import Path
 
