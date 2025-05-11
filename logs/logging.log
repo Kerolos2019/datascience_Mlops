@@ -49,3 +49,11 @@
 [2025-05-06 19:59:39,957: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2025-05-10 20:53:09,725: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-10 20:53:09,830: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-10 20:53:09,949: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-10 20:53:10,020: INFO: common: created directory at: artifacts]
+[2025-05-10 20:53:10,022: INFO: common: created directory at: artifacts/data_transformation]
+[2025-05-10 20:53:10,683: INFO: 741865018: Splited data into training and test sets]
+[2025-05-10 20:53:10,686: INFO: 741865018: (1199, 12)]
+[2025-05-10 20:53:10,688: INFO: 741865018: (400, 12)]
