@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BISM/datascience_mlops/mlruns/0/9a8fb871a8f34c5a86a61fd3d93662fe/artifacts
+end_time: 1747175023262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a8fb871a8f34c5a86a61fd3d93662fe
+run_name: dashing-chimp-253
+run_uuid: 9a8fb871a8f34c5a86a61fd3d93662fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747174994281
+status: 3
+tags: []
+user_id: kerolos
