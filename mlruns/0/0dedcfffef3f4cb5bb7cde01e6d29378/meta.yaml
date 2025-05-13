@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/BISM/datascience_mlops/mlruns/0/0dedcfffef3f4cb5bb7cde01e6d29378/artifacts
+end_time: 1747151183899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dedcfffef3f4cb5bb7cde01e6d29378
+run_name: melodic-vole-362
+run_uuid: 0dedcfffef3f4cb5bb7cde01e6d29378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747151174309
+status: 3
+tags: []
+user_id: kerolos
